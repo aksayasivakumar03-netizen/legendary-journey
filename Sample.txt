@@ -1,0 +1,5 @@
+Name: Aksaya
+Department: CSE
+Year: 1st Year
+
+This repository was created for GitHub setup activity.
